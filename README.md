@@ -48,7 +48,7 @@
 ---
 
 ## 🎥 **게임 플레이 영상**  
-
+[![게임 플레이 영상](treasurehunt_img.png)](https://youtu.be/-LWX6Thv8bc)  
 
 ---
 
